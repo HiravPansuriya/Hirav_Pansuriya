@@ -1,12 +1,9 @@
 ---
 
-
-# 👋 Hi there! I'm **Hirav Pansuriya**  
 # <span style="font-family: 'Verdana';">👋 Hi there! I'm **Hirav Pansuriya**</span>  
 
 ---
 
-## 🌟 About Me  
 ## 🌟 <span style="font-family: 'Georgia';">About Me</span>  
 
 - 👀 **Interests**: Programming, Web Development, and Data Structures & Algorithms (DSA).  
@@ -17,20 +14,16 @@
   - JAVA
   - Python  
   - JavaScript and Front-End Development  
-@@ -18,7 +18,7 @@
 
 ---
-
-## ⚡ Tech Stack  
+  
 ## ⚡ <span style="font-family: 'Courier New';">Tech Stack</span>  
 
 - **Languages**:  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-@@ -42,13 +42,13 @@
+
 
 ---
 
-## 📫 Get in Touch  
 ## 📫 <span style="font-family: 'Impact';">Get in Touch</span>  
 
 <p align="center">
@@ -42,7 +35,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-@@ -58,6 +58,7 @@
 
 ---!>
 ✨ *This is just the beginning of my journey in the tech world, and I’m excited to grow and contribute!*  
