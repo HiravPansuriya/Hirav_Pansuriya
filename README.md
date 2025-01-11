@@ -5,9 +5,7 @@
 ---
 
 ## 🌟 <span style="font-family: 'Georgia';">About Me</span>  
-
-- 👀 **Interests**: Programming, Web Development, and Data Structures & Algorithms (DSA).  
-- 🌱 **Currently Learning**:  
+ 
 - 👀 <span style="font-family: 'Arial';">**Interests**:</span> Programming, Web Development, and Data Structures & Algorithms (DSA).  
 - 🌱 <span style="font-family: 'Comic Sans MS';">**Currently Learning**:</span>  
   - Data Structures and Algorithms (DSA)  
